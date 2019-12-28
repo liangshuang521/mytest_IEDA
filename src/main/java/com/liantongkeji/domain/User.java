@@ -13,5 +13,6 @@ public class User {
     private  String password;
     private  String address;
     private Integer age;
+    private  String hobby;
 
 }
