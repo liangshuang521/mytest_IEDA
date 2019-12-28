@@ -1,5 +1,7 @@
 package com.liantongkeji.domain;
 
+import javax.print.DocFlavor;
+
 /**
  * @Auther: LiangShuang
  * @Date: 2019/12/28 19:44
@@ -8,4 +10,6 @@ package com.liantongkeji.domain;
 public class User {
 
     private  String username;
+    private  String password;
+
 }
